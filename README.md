@@ -1,0 +1,1 @@
+# first-MondoDB-structure
